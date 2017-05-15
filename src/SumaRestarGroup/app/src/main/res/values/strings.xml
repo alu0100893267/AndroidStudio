@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SumaRestarGroup</string>
+    <string name="ingresar_primer_valor">ingresar primer valor</string>
+    <string name="ingresar_segundo_valor">ingresar segundo valor</string>
+    <string name="operar">Operar</string>
+    <string name="textview">TextView</string>
+    <string name="sumar">sumar</string>
+    <string name="restar">restar</string>
 </resources>
