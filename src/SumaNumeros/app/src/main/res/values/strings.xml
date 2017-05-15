@@ -1,6 +1,6 @@
 <resources>
     <string name="app_name">SumaNumeros</string>
-    <string name="textview">TextView</string>
+    <string name="textview">Resultado</string>
     <string name="sumar">Sumar</string>
     <string name="ingrese_el_segundo_valor">ingrese el segundo valor</string>
     <string name="ingrese_el_primer_valor">ingrese el primer valor</string>

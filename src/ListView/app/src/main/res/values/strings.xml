@@ -1,4 +1,4 @@
 <resources>
     <string name="app_name">ListView</string>
-    <string name="textview">TextView</string>
+    <string name="textview">Población</string>
 </resources>
